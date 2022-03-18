@@ -9,6 +9,10 @@ ini adalah tampilannya
   ![Gambar](SS3.PNG)
   ![Gambar](SS4.PNG)
   ![Gambar](SS5.PNG)
+  ![Gambar](SS6.PNG)
+  
+  
+
   
   
   
